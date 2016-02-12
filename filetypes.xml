@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="2015-09-04-CPMS-1701-adding-fund-code.sql" type="PLAIN_TEXT" />
+      <mapping pattern="scenarios" type="PLAIN_TEXT" />
+      <mapping pattern="evw" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="v2_batch_refund.json" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
