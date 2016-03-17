@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '/Users/phil/workspace/marooned/app'" />
-    <option name="defaultScopeName" value="Directory '/Users/phil/workspace/marooned/app'" />
+    <option name="customScope" value="Directory '/Users/phil/workspace/castaway/app/library'" />
+    <option name="defaultScopeName" value="Directory '/Users/phil/workspace/castaway/app/library'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/phil/workspace/marooned/app'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/phil/workspace/castaway/app/library'" />
   </component>
 </application>
