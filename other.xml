@@ -63,6 +63,10 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/0.10.31/bin/node" />
+  </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
