@@ -117,7 +117,7 @@
             <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
-            <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="memory_limit" value="512M" />
             <configuration_option name="mysql.allow_local_infile" value="1" />
             <configuration_option name="mysql.allow_persistent" value="1" />
             <configuration_option name="mysql.connect_timeout" value="60" />
