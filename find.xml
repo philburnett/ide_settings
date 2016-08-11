@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../app/library/Castaway - [castaway]'" />
-    <option name="defaultScopeName" value="Directory '.../app/library/Castaway - [castaway]'" />
+    <option name="customScope" value="Directory '.../app/library - [castaway]'" />
+    <option name="defaultScopeName" value="Directory '.../app/library - [castaway]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../app/library/Castaway - [castaway]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../app/library - [castaway]'" />
   </component>
 </application>
