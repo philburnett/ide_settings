@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/library/Castaway/Http/Controllers/JobUpdateController.php - [castaway]'" />
-    <option name="defaultScopeName" value="File '.../app/library/Castaway/Http/Controllers/JobUpdateController.php - [castaway]'" />
+    <option name="customScope" value="Directory '.../src - [world-first-bank-account]'" />
+    <option name="defaultScopeName" value="Directory '.../src - [world-first-bank-account]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/library/Castaway/Http/Controllers/JobUpdateController.php - [castaway]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src - [world-first-bank-account]'" />
   </component>
 </application>
